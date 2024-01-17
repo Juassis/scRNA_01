@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="700"
+   height="450"
+   style=""
+   viewBox="0 0 700 450"
+   version="1.1"
+   id="svg398"
+   sodipodi:docname="Working_vudyldty_Barplot_% Ribosomal counts_per Leiden clusters_frequency.svg"
+   inkscape:export-filename="Working_vudyldty_Barplot_% Ribosomal counts_per Leiden clusters_frequency.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview400"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.78"
+     inkscape:cx="235.11236"
+     inkscape:cy="231.17978"
+     inkscape:window-width="2330"
+     inkscape:window-height="1301"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg398" />
+  <rect
+     x="0"
+     y="0"
+     width="700"
+     height="450"
+     style="fill: rgb(255, 255, 255); fill-opacity: 1;"
+     id="rect2" />
+  <defs
+     id="defs-a2dd27">
+    <g
+       class="clips"
+       id="g16">
+      <clipPath
+         id="clipa2dd27xyplot"
+         class="plotclip">
+        <rect
+           width="520"
+           height="270"
+           id="rect4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipa2dd27x">
+        <rect
+           x="100"
+           y="0"
+           width="520"
+           height="450"
+           id="rect7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipa2dd27y">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="270"
+           id="rect10" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipa2dd27xy">
+        <rect
+           x="100"
+           y="100"
+           width="520"
+           height="270"
+           id="rect13" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18" />
+    <g
+       class="patterns"
+       id="g20" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g23" />
+  <g
+     class="layer-below"
+     id="g29">
+    <g
+       class="imagelayer"
+       id="g25" />
+    <g
+       class="shapelayer"
+       id="g27" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g353"
+     transform="translate(0,-64)">
+    <g
+       class="subplot xy"
+       id="g351">
+      <g
+         class="layer-subplot"
+         id="g35">
+        <g
+           class="shapelayer"
+           id="g31" />
+        <g
+           class="imagelayer"
+           id="g33" />
+      </g>
+      <g
+         class="minor-gridlayer"
+         id="g41">
+        <g
+           class="x"
+           id="g37" />
+        <g
+           class="y"
+           id="g39" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g59">
+        <g
+           class="x"
+           id="g43" />
+        <g
+           class="y"
+           id="g57">
+          <path
+             class="ygrid crisp"
+             transform="translate(0,330.99)"
+             d="M 100,0 H 620"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path45" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,291.98)"
+             d="M 100,0 H 620"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path47" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,252.97)"
+             d="M 100,0 H 620"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path49" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,213.95)"
+             d="M 100,0 H 620"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path51" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,174.94)"
+             d="M 100,0 H 620"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path53" />
+          <path
+             class="ygrid crisp"
+             transform="translate(0,135.93)"
+             d="M 100,0 H 620"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path55" />
+        </g>
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g63">
+        <path
+           class="yzl zl crisp"
+           transform="translate(0,370)"
+           d="M 100,0 H 620"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           id="path61" />
+      </g>
+      <path
+         class="xlines-below"
+         id="path65"
+         d="" />
+      <path
+         class="ylines-below"
+         id="path67"
+         d="" />
+      <g
+         class="overlines-below"
+         id="g69" />
+      <g
+         class="xaxislayer-below"
+         id="g71" />
+      <g
+         class="yaxislayer-below"
+         id="g73" />
+      <g
+         class="overaxes-below"
+         id="g75" />
+      <g
+         class="plot"
+         transform="translate(100,100)"
+         clip-path="url(#clipa2dd27xyplot)"
+         id="g167">
+        <g
+           class="barlayer mlayer"
+           id="g165">
+          <g
+             class="trace bars"
+             style="opacity:1"
+             id="g163">
+            <g
+               class="points"
+               id="g161">
+              <g
+                 class="point"
+                 id="g79">
+                <path
+                   d="M 2.48,270 V 13.5 H 22.29 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#007879;fill-opacity:1;stroke-width:0px"
+                   id="path77" />
+              </g>
+              <g
+                 class="point"
+                 id="g83">
+                <path
+                   d="M 27.24,270 V 187.88 H 47.05 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#009193;fill-opacity:1;stroke-width:0px"
+                   id="path81" />
+              </g>
+              <g
+                 class="point"
+                 id="g87">
+                <path
+                   d="M 52,270 V 252.83 H 71.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#00a8aa;fill-opacity:1;stroke-width:0px"
+                   id="path85" />
+              </g>
+              <g
+                 class="point"
+                 id="g91">
+                <path
+                   d="M 76.76,270 V 46.46 H 96.57 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#4f7a28;fill-opacity:1;stroke-width:0px"
+                   id="path89" />
+              </g>
+              <g
+                 class="point"
+                 id="g95">
+                <path
+                   d="m 101.52,270 v -29.65 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#009051;fill-opacity:1;stroke-width:0px"
+                   id="path93" />
+              </g>
+              <g
+                 class="point"
+                 id="g99">
+                <path
+                   d="M 126.29,270 V 58.56 H 146.1 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#d84800;fill-opacity:1;stroke-width:0px"
+                   id="path97" />
+              </g>
+              <g
+                 class="point"
+                 id="g103">
+                <path
+                   d="m 151.05,270 v -89.53 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#d77b42;fill-opacity:1;stroke-width:0px"
+                   id="path101" />
+              </g>
+              <g
+                 class="point"
+                 id="g107">
+                <path
+                   d="m 175.81,270 v -13.07 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#5c0700;fill-opacity:1;stroke-width:0px"
+                   id="path105" />
+              </g>
+              <g
+                 class="point"
+                 id="g111">
+                <path
+                   d="m 200.57,270 v -71 h 19.81 v 71 z"
+                   style="opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke-width:0px"
+                   id="path109" />
+              </g>
+              <g
+                 class="point"
+                 id="g115">
+                <path
+                   d="m 225.33,270 v -91.29 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke-width:0px"
+                   id="path113" />
+              </g>
+              <g
+                 class="point"
+                 id="g119">
+                <path
+                   d="m 250.1,270 v -34.92 h 19.8 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#929292;fill-opacity:1;stroke-width:0px"
+                   id="path117" />
+              </g>
+              <g
+                 class="point"
+                 id="g123">
+                <path
+                   d="M 274.86,270 V 87.23 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#c0c0c0;fill-opacity:1;stroke-width:0px"
+                   id="path121" />
+              </g>
+              <g
+                 class="point"
+                 id="g127">
+                <path
+                   d="M 299.62,270 V 76.11 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#669c35;fill-opacity:1;stroke-width:0px"
+                   id="path125" />
+              </g>
+              <g
+                 class="point"
+                 id="g131">
+                <path
+                   d="m 324.38,270 v -94.99 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#a77b00;fill-opacity:1;stroke-width:0px"
+                   id="path129" />
+              </g>
+              <g
+                 class="point"
+                 id="g135">
+                <path
+                   d="m 349.14,270 v -21.07 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#583400;fill-opacity:1;stroke-width:0px"
+                   id="path133" />
+              </g>
+              <g
+                 class="point"
+                 id="g139">
+                <path
+                   d="m 373.9,270 v -85.04 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#b51a00;fill-opacity:1;stroke-width:0px"
+                   id="path137" />
+              </g>
+              <g
+                 class="point"
+                 id="g143">
+                <path
+                   d="m 398.67,270 v -49.15 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#36acab;fill-opacity:1;stroke-width:0px"
+                   id="path141" />
+              </g>
+              <g
+                 class="point"
+                 id="g147">
+                <path
+                   d="m 423.43,270 v -43.89 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#37aabb;fill-opacity:1;stroke-width:0px"
+                   id="path145" />
+              </g>
+              <g
+                 class="point"
+                 id="g151">
+                <path
+                   d="M 448.19,270 V 230.21 H 468 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#39a8cd;fill-opacity:1;stroke-width:0px"
+                   id="path149" />
+              </g>
+              <g
+                 class="point"
+                 id="g155">
+                <path
+                   d="m 472.95,270 v -5.27 h 19.81 V 270 Z"
+                   style="opacity:1;vector-effect:none;fill:#666100;fill-opacity:1;stroke-width:0px"
+                   id="path153" />
+              </g>
+              <g
+                 class="point"
+                 id="g159">
+                <path
+                   d="m 497.71,270 v -3.9 h 19.81 v 3.9 z"
+                   style="opacity:1;vector-effect:none;fill:#001e57;fill-opacity:1;stroke-width:0px"
+                   id="path157" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g169" />
+      <path
+         class="xlines-above crisp"
+         style="fill:none;stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         d="M 98,371.5 H 620"
+         id="path171" />
+      <path
+         class="ylines-above crisp"
+         style="fill:none;stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         d="M 98.5,100 V 371"
+         id="path173" />
+      <g
+         class="overlines-above"
+         id="g175" />
+      <g
+         class="xaxislayer-above"
+         id="g303">
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(112.38)"
+           id="path177" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(137.14)"
+           id="path179" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(161.9)"
+           id="path181" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(186.67)"
+           id="path183" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(211.43)"
+           id="path185" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(236.19)"
+           id="path187" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(260.95)"
+           id="path189" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(285.71)"
+           id="path191" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(310.48)"
+           id="path193" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(335.24)"
+           id="path195" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(360)"
+           id="path197" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(384.76)"
+           id="path199" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(409.52)"
+           id="path201" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(434.29)"
+           id="path203" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(459.05)"
+           id="path205" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(483.81)"
+           id="path207" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(508.57)"
+           id="path209" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(533.33)"
+           id="path211" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(558.1)"
+           id="path213" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(582.86)"
+           id="path215" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,372 v 5"
+           transform="translate(607.62)"
+           id="path217" />
+        <g
+           class="xtick"
+           id="g221">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,56.19,520.35466)"
+             id="text219">1-Endothelial (Emcn)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g225">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,68.57,550.24262)"
+             id="text223">2-Endothelial (Fam167b)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g229">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,80.95,580.13059)"
+             id="text227">3-Endothelial (Sema3g)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g233">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,93.335,610.03062)"
+             id="text231">4-T cell (Cd3d-Cd3e)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g237">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,105.715,639.91859)"
+             id="text235">5-T cell (Gm2682)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g241">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,118.095,669.80655)"
+             id="text239">6-Macrophage (Adgre-Fcrls)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g245">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,130.475,699.69451)"
+             id="text243">7-Macrophage(Cd300ld)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g249">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,142.855,729.58248)"
+             id="text247">8-Macrophage (Lyve1)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g253">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,155.24,759.48251)"
+             id="text251">9-Acinar cells</text>
+        </g>
+        <g
+           class="xtick"
+           id="g257">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,167.62,789.37048)"
+             id="text255">10-Acinar cells (Amy2a1)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g261">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,180,819.25844)"
+             id="text259">11-Acinar to Ductal (Gm2663)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g265">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,192.38,849.14641)"
+             id="text263">12-Acinar to Ductal (ADM)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g269">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,204.76,879.03437)"
+             id="text267">13-B cell (Cd79a-Pax5)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g273">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,217.145,908.9344)"
+             id="text271">14-Stellate cell (Svep1-Dpt)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g277">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,229.525,938.82237)"
+             id="text275">15-Stellate cell (Fgf1)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g281">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,241.905,968.71033)"
+             id="text279">16-Progenitor (ADM)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g285">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,254.285,998.5983)"
+             id="text283">17-Muscularis cell</text>
+        </g>
+        <g
+           class="xtick"
+           id="g289">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,266.665,1028.4863)"
+             id="text287">18-Fibroblast (Rgs5)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g293">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,279.05,1058.3863)"
+             id="text291">19-Dendritic (Cd209a)</text>
+        </g>
+        <g
+           class="xtick"
+           id="g297">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,291.43,1088.2743)"
+             id="text295">20-Enterochromaffn cell</text>
+        </g>
+        <g
+           class="xtick"
+           id="g301">
+          <text
+             text-anchor="start"
+             x="0"
+             y="390.20001"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,303.81,1118.1622)"
+             id="text299">21Pancreatic D cell</text>
+        </g>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g347">
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,370)"
+           id="path305" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,330.99)"
+           id="path307" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,291.98)"
+           id="path309" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,252.97)"
+           id="path311" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,213.95)"
+           id="path313" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,174.94)"
+           id="path315" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,135.93)"
+           id="path317" />
+        <g
+           class="ytick"
+           id="g321">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-21108.1,183.35)"
+             id="text319">0</text>
+        </g>
+        <g
+           class="ytick"
+           id="g325">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-18873.049,163.845)"
+             id="text323">200</text>
+        </g>
+        <g
+           class="ytick"
+           id="g329">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-16637.997,144.34)"
+             id="text327">400</text>
+        </g>
+        <g
+           class="ytick"
+           id="g333">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-14402.945,124.835)"
+             id="text331">600</text>
+        </g>
+        <g
+           class="ytick"
+           id="g337">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-12167.321,105.325)"
+             id="text335">800</text>
+        </g>
+        <g
+           class="ytick"
+           id="g341">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-9932.2692,85.82)"
+             id="text339">1000</text>
+        </g>
+        <g
+           class="ytick"
+           id="g345">
+          <text
+             text-anchor="end"
+             x="90.800003"
+             y="3.8499999"
+             style="font-size:11px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(1,-7697.2176,66.315)"
+             id="text343">1200</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g349" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g355" />
+  <g
+     class="smithlayer"
+     id="g357" />
+  <g
+     class="ternarylayer"
+     id="g359" />
+  <g
+     class="geolayer"
+     id="g361" />
+  <g
+     class="funnelarealayer"
+     id="g363" />
+  <g
+     class="pielayer"
+     id="g365" />
+  <g
+     class="iciclelayer"
+     id="g367" />
+  <g
+     class="treemaplayer"
+     id="g369" />
+  <g
+     class="sunburstlayer"
+     id="g371" />
+  <g
+     class="glimages"
+     id="g373" />
+  <defs
+     id="topdefs-a2dd27">
+    <g
+       class="clips"
+       id="g375" />
+  </defs>
+  <g
+     class="layer-above"
+     id="g382">
+    <g
+       class="imagelayer"
+       id="g378" />
+    <g
+       class="shapelayer"
+       id="g380" />
+  </g>
+  <g
+     class="infolayer"
+     id="g396"
+     transform="translate(0,-64)">
+    <g
+       class="g-gtitle"
+       id="g384" />
+    <g
+       class="g-xtitle"
+       id="g386" />
+    <g
+       class="g-ytitle"
+       transform="translate(22.897461)"
+       id="g394">
+      <text
+         class="ytitle"
+         transform="rotate(-90,-8.8193359,235)"
+         style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444"
+         x="-8.8193359"
+         y="235"
+         text-anchor="middle"
+         id="text392"><tspan
+           class="line"
+           dy="0em"
+           x="-8.8193359"
+           y="235"
+           id="tspan388">No. of cells </tspan><tspan
+           class="line"
+           dy="1.3em"
+           x="-8.8193359"
+           y="235"
+           id="tspan390"> with expression &gt; 0</tspan></text>
+    </g>
+  </g>
+</svg>

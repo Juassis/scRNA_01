@@ -1,0 +1,2750 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   class="main-svg"
+   width="700"
+   height="771"
+   style=""
+   viewBox="0 0 700 771"
+   version="1.1"
+   id="svg1041"
+   sodipodi:docname="Working_vudyldty_Stacked bar plot_Type_Leiden clusters.svg"
+   inkscape:export-filename="Working_vudyldty_Stacked bar plot_Type_Leiden clusters.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300"
+   inkscape:version="1.2 (dc2aeda, 2022-05-15)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1043"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.3320363"
+     inkscape:cx="197.81743"
+     inkscape:cy="390.75511"
+     inkscape:window-width="2430"
+     inkscape:window-height="1301"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg1041" />
+  <rect
+     x="0"
+     y="-22"
+     width="700"
+     height="771"
+     style="fill:#ffffff;fill-opacity:1"
+     id="rect2" />
+  <defs
+     id="defs-da0217">
+    <g
+       class="clips"
+       id="g16">
+      <clipPath
+         id="clipda0217xyplot"
+         class="plotclip">
+        <rect
+           width="359"
+           height="591"
+           id="rect4" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipda0217x">
+        <rect
+           x="100"
+           y="0"
+           width="359"
+           height="771"
+           id="rect7" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipda0217y">
+        <rect
+           x="0"
+           y="100"
+           width="700"
+           height="591"
+           id="rect10" />
+      </clipPath>
+      <clipPath
+         class="axesclip"
+         id="clipda0217xy">
+        <rect
+           x="100"
+           y="100"
+           width="359"
+           height="591"
+           id="rect13" />
+      </clipPath>
+    </g>
+    <g
+       class="gradients"
+       id="g18" />
+    <g
+       class="patterns"
+       id="g20" />
+  </defs>
+  <g
+     class="bglayer"
+     id="g23" />
+  <g
+     class="layer-below"
+     id="g29">
+    <g
+       class="imagelayer"
+       id="g25" />
+    <g
+       class="shapelayer"
+       id="g27" />
+  </g>
+  <g
+     class="cartesianlayer"
+     id="g605"
+     transform="translate(0,-22)">
+    <g
+       class="subplot xy"
+       id="g603">
+      <g
+         class="layer-subplot"
+         id="g35">
+        <g
+           class="shapelayer"
+           id="g31" />
+        <g
+           class="imagelayer"
+           id="g33" />
+      </g>
+      <g
+         class="minor-gridlayer"
+         id="g41">
+        <g
+           class="x"
+           id="g37" />
+        <g
+           class="y"
+           id="g39" />
+      </g>
+      <g
+         class="gridlayer"
+         id="g53">
+        <g
+           class="x"
+           id="g49">
+          <path
+             class="xgrid crisp"
+             transform="translate(159.83)"
+             d="M 0,100 V 691"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path43" />
+          <path
+             class="xgrid crisp"
+             transform="translate(279.5)"
+             d="M 0,100 V 691"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path45" />
+          <path
+             class="xgrid crisp"
+             transform="translate(399.17)"
+             d="M 0,100 V 691"
+             style="stroke:#eeeeee;stroke-width:1px;stroke-opacity:1"
+             id="path47" />
+        </g>
+        <g
+           class="y"
+           id="g51" />
+      </g>
+      <g
+         class="zerolinelayer"
+         id="g57">
+        <path
+           class="yzl zl crisp"
+           transform="translate(0,691)"
+           d="M 100,0 H 459"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           id="path55" />
+      </g>
+      <path
+         class="xlines-below"
+         id="path59"
+         d="" />
+      <path
+         class="ylines-below"
+         id="path61"
+         d="" />
+      <g
+         class="overlines-below"
+         id="g63" />
+      <g
+         class="xaxislayer-below"
+         id="g65" />
+      <g
+         class="yaxislayer-below"
+         id="g67" />
+      <g
+         class="overaxes-below"
+         id="g69" />
+      <g
+         class="plot"
+         transform="translate(100,100)"
+         clip-path="url(#clipda0217xyplot)"
+         id="g533">
+        <g
+           class="barlayer mlayer"
+           id="g531">
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g91">
+            <g
+               class="points"
+               id="g89">
+              <g
+                 class="point"
+                 id="g75">
+                <path
+                   d="m 11.97,591 v -0.9 h 95.73 v 0.9 z"
+                   style="opacity:1;vector-effect:none;fill:#001e57;fill-opacity:1;stroke-width:0px"
+                   id="path71" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.21333333,-0.21333333,0,58.816667,590.55)"
+                   id="text73" />
+              </g>
+              <g
+                 class="point"
+                 id="g81">
+                <path
+                   d="m 131.63,591 v -1.79 h 95.74 V 591 Z"
+                   style="opacity:1;vector-effect:none;fill:#001e57;fill-opacity:1;stroke-width:0px"
+                   id="path77" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.4242963,-0.4242963,0,177.47465,590.105)"
+                   id="text79" />
+              </g>
+              <g
+                 class="point"
+                 id="g87">
+                <path
+                   d="m 251.3,591 v -1.12 h 95.73 V 591 Z"
+                   style="opacity:1;vector-effect:none;fill:#001e57;fill-opacity:1;stroke-width:0px"
+                   id="path83" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.26548148,-0.26548148,0,297.89774,590.44)"
+                   id="text85" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g113">
+            <g
+               class="points"
+               id="g111">
+              <g
+                 class="point"
+                 id="g97">
+                <path
+                   d="m 11.97,590.1 v -1.97 h 95.73 v 1.97 z"
+                   style="opacity:1;vector-effect:none;fill:#666100;fill-opacity:1;stroke-width:0px"
+                   id="path93" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.46696296,-0.46696296,0,57.605981,589.115)"
+                   id="text95" />
+              </g>
+              <g
+                 class="point"
+                 id="g103">
+                <path
+                   d="m 131.63,589.21 v -1.2 h 95.74 v 1.2 z"
+                   style="opacity:1;vector-effect:none;fill:#666100;fill-opacity:1;stroke-width:0px"
+                   id="path99" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.28444444,-0.28444444,0,178.14222,588.61)"
+                   id="text101" />
+              </g>
+              <g
+                 class="point"
+                 id="g109">
+                <path
+                   d="m 251.3,589.88 v -1.86 h 95.73 v 1.86 z"
+                   style="opacity:1;vector-effect:none;fill:#666100;fill-opacity:1;stroke-width:0px"
+                   id="path105" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.44088889,-0.44088889,0,297.06044,588.95)"
+                   id="text107" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g135">
+            <g
+               class="points"
+               id="g133">
+              <g
+                 class="point"
+                 id="g119">
+                <path
+                   d="m 11.97,588.13 v -3.04 h 95.73 v 3.04 z"
+                   style="opacity:1;vector-effect:none;fill:#39a8cd;fill-opacity:1;stroke-width:0px"
+                   id="path115" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.72059259,-0.72059259,0,56.395296,586.61)"
+                   id="text117" />
+              </g>
+              <g
+                 class="point"
+                 id="g125">
+                <path
+                   d="m 131.63,588.01 v -20.34 h 95.74 v 20.34 z"
+                   style="opacity:1;vector-effect:none;fill:#39a8cd;fill-opacity:1;stroke-width:0px"
+                   id="path121" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-200.94047,375.66703)"
+                   id="text123"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g131">
+                <path
+                   d="m 251.3,588.02 v -15.85 h 95.73 v 15.85 z"
+                   style="opacity:1;vector-effect:none;fill:#39a8cd;fill-opacity:1;stroke-width:0px"
+                   id="path127" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.82947368,-0.82947368,0,295.20556,580.095)"
+                   id="text129"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g157">
+            <g
+               class="points"
+               id="g155">
+              <g
+                 class="point"
+                 id="g141">
+                <path
+                   d="m 11.97,585.09 v -16.3 h 95.73 v 16.3 z"
+                   style="opacity:1;vector-effect:none;fill:#37aabb;fill-opacity:1;stroke-width:0px"
+                   id="path137" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.86736842,-0.86736842,0,55.694671,576.94)"
+                   id="text139"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g147">
+                <path
+                   d="m 131.63,567.67 v -15.15 h 95.74 v 15.15 z"
+                   style="opacity:1;vector-effect:none;fill:#37aabb;fill-opacity:1;stroke-width:0px"
+                   id="path143" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.77052632,-0.77052632,0,175.82194,560.095)"
+                   id="text145"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g153">
+                <path
+                   d="m 251.3,572.17 v -10.81 h 95.73 v 10.81 z"
+                   style="opacity:1;vector-effect:none;fill:#37aabb;fill-opacity:1;stroke-width:0px"
+                   id="path149" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-136.03891,430.43047)"
+                   id="text151" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g179">
+            <g
+               class="points"
+               id="g177">
+              <g
+                 class="point"
+                 id="g163">
+                <path
+                   d="m 11.97,568.79 v -7.71 h 95.73 v 7.71 z"
+                   style="opacity:1;vector-effect:none;fill:#36acab;fill-opacity:1;stroke-width:0px"
+                   id="path159" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.40533333,-0.40533333,0,57.900167,564.935)"
+                   id="text161" />
+              </g>
+              <g
+                 class="point"
+                 id="g169">
+                <path
+                   d="m 131.63,552.52 v -19.94 h 95.74 v 19.94 z"
+                   style="opacity:1;vector-effect:none;fill:#36acab;fill-opacity:1;stroke-width:0px"
+                   id="path165" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-183.39547,358.12203)"
+                   id="text167"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g175">
+                <path
+                   d="m 251.3,561.36 v -20.32 h 95.73 v 20.32 z"
+                   style="opacity:1;vector-effect:none;fill:#36acab;fill-opacity:1;stroke-width:0px"
+                   id="path171" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-127.79297,422.18453)"
+                   id="text173"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g201">
+            <g
+               class="points"
+               id="g199">
+              <g
+                 class="point"
+                 id="g185">
+                <path
+                   d="m 11.97,561.08 v -46.75 h 95.73 v 46.75 z"
+                   style="opacity:1;vector-effect:none;fill:#b51a00;fill-opacity:1;stroke-width:0px"
+                   id="path181" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,529.40813)"
+                   id="text183"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g191">
+                <path
+                   d="m 131.63,532.58 v -17.95 h 95.74 v 17.95 z"
+                   style="opacity:1;vector-effect:none;fill:#b51a00;fill-opacity:1;stroke-width:0px"
+                   id="path187" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-172.50641,347.23297)"
+                   id="text189" />
+              </g>
+              <g
+                 class="point"
+                 id="g197">
+                <path
+                   d="m 251.3,541.04 v -15.85 h 95.73 v 15.85 z"
+                   style="opacity:1;vector-effect:none;fill:#b51a00;fill-opacity:1;stroke-width:0px"
+                   id="path193" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-117.95391,412.34547)"
+                   id="text195" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g223">
+            <g
+               class="points"
+               id="g221">
+              <g
+                 class="point"
+                 id="g207">
+                <path
+                   d="M 11.97,514.33 V 503.4 h 95.73 v 10.93 z"
+                   style="opacity:1;vector-effect:none;fill:#583400;fill-opacity:1;stroke-width:0px"
+                   id="path203" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.41515789,-0.41515789,0,57.85327,508.865)"
+                   id="text205"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g213">
+                <path
+                   d="m 131.63,514.63 v -4.58 h 95.74 v 4.58 z"
+                   style="opacity:1;vector-effect:none;fill:#583400;fill-opacity:1;stroke-width:0px"
+                   id="path209" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-168.71641,343.44297)"
+                   id="text211" />
+              </g>
+              <g
+                 class="point"
+                 id="g219">
+                <path
+                   d="m 251.3,525.19 v -4.48 h 95.73 v 4.48 z"
+                   style="opacity:1;vector-effect:none;fill:#583400;fill-opacity:1;stroke-width:0px"
+                   id="path215" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-114.21391,408.60547)"
+                   id="text217" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g245">
+            <g
+               class="points"
+               id="g243">
+              <g
+                 class="point"
+                 id="g229">
+                <path
+                   d="M 11.97,503.4 V 467.93 H 107.7 V 503.4 Z"
+                   style="opacity:1;vector-effect:none;fill:#a77b00;fill-opacity:1;stroke-width:0px"
+                   id="path225" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,483.00812)"
+                   id="text227"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g235">
+                <path
+                   d="m 131.63,510.05 v -21.94 h 95.74 v 21.94 z"
+                   style="opacity:1;vector-effect:none;fill:#a77b00;fill-opacity:1;stroke-width:0px"
+                   id="path231" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,503.18813)"
+                   id="text233" />
+              </g>
+              <g
+                 class="point"
+                 id="g241">
+                <path
+                   d="m 251.3,520.71 v -33.37 h 95.73 v 33.37 z"
+                   style="opacity:1;vector-effect:none;fill:#a77b00;fill-opacity:1;stroke-width:0px"
+                   id="path237" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,502.41812)"
+                   id="text239"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g267">
+            <g
+               class="points"
+               id="g265">
+              <g
+                 class="point"
+                 id="g251">
+                <path
+                   d="M 11.97,467.93 V 449.3 h 95.73 v 18.63 z"
+                   style="opacity:1;vector-effect:none;fill:#669c35;fill-opacity:1;stroke-width:0px"
+                   id="path247" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-201.58797,256.64953)"
+                   id="text249"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g257">
+                <path
+                   d="m 131.63,488.11 v -97.9 h 95.74 v 97.9 z"
+                   style="opacity:1;vector-effect:none;fill:#669c35;fill-opacity:1;stroke-width:0px"
+                   id="path253" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,405.28812)"
+                   id="text255"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g263">
+                <path
+                   d="m 251.3,487.34 v -74.39 h 95.73 v 74.39 z"
+                   style="opacity:1;vector-effect:none;fill:#669c35;fill-opacity:1;stroke-width:0px"
+                   id="path259" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,428.02812)"
+                   id="text261"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g289">
+            <g
+               class="points"
+               id="g287">
+              <g
+                 class="point"
+                 id="g273">
+                <path
+                   d="M 11.97,449.3 V 362.23 H 107.7 V 449.3 Z"
+                   style="opacity:1;vector-effect:none;fill:#c0c0c0;fill-opacity:1;stroke-width:0px"
+                   id="path269" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,377.30813)"
+                   id="text271"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g279">
+                <path
+                   d="m 131.63,390.21 v -37.09 h 95.74 v 37.09 z"
+                   style="opacity:1;vector-effect:none;fill:#c0c0c0;fill-opacity:1;stroke-width:0px"
+                   id="path275" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,368.19812)"
+                   id="text277" />
+              </g>
+              <g
+                 class="point"
+                 id="g285">
+                <path
+                   d="m 251.3,412.95 v -49.4 h 95.73 v 49.4 z"
+                   style="opacity:1;vector-effect:none;fill:#c0c0c0;fill-opacity:1;stroke-width:0px"
+                   id="path281" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,378.62812)"
+                   id="text283"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g309">
+            <g
+               class="points"
+               id="g307">
+              <g
+                 class="point"
+                 id="g293">
+                <path
+                   d="M 0,0 Z"
+                   style="opacity:1;vector-effect:none;fill:#929292;fill-opacity:1;stroke-width:0px"
+                   id="path291" />
+              </g>
+              <g
+                 class="point"
+                 id="g299">
+                <path
+                   d="m 131.63,353.12 v -16.35 h 95.74 v 16.35 z"
+                   style="opacity:1;vector-effect:none;fill:#929292;fill-opacity:1;stroke-width:0px"
+                   id="path295" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.87157895,-0.87157895,0,175.33957,344.945)"
+                   id="text297"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g305">
+                <path
+                   d="m 251.3,363.55 v -18.09 h 95.73 v 18.09 z"
+                   style="opacity:1;vector-effect:none;fill:#929292;fill-opacity:1;stroke-width:0px"
+                   id="path301" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-30.002969,324.39453)"
+                   id="text303"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g331">
+            <g
+               class="points"
+               id="g329">
+              <g
+                 class="point"
+                 id="g315">
+                <path
+                   d="m 11.97,362.23 v -62.52 h 95.73 v 62.52 z"
+                   style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke-width:0px"
+                   id="path311" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,314.78812)"
+                   id="text313"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g321">
+                <path
+                   d="m 131.63,336.77 v -15.55 h 95.74 v 15.55 z"
+                   style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke-width:0px"
+                   id="path317" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-75.801406,250.52797)"
+                   id="text319" />
+              </g>
+              <g
+                 class="point"
+                 id="g327">
+                <path
+                   d="m 251.3,345.46 v -7.64 h 95.73 v 7.64 z"
+                   style="opacity:1;vector-effect:none;fill:#606060;fill-opacity:1;stroke-width:0px"
+                   id="path323" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.13810526,-0.13810526,0,298.50576,341.64)"
+                   id="text325"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g353">
+            <g
+               class="points"
+               id="g351">
+              <g
+                 class="point"
+                 id="g337">
+                <path
+                   d="m 11.97,299.71 v -48.19 h 95.73 v 48.19 z"
+                   style="opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke-width:0px"
+                   id="path333" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,266.59812)"
+                   id="text335"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g343">
+                <path
+                   d="m 131.63,321.22 v -11.96 h 95.74 v 11.96 z"
+                   style="opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke-width:0px"
+                   id="path339" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,-69.821406,244.54797)"
+                   id="text341" />
+              </g>
+              <g
+                 class="point"
+                 id="g349">
+                <path
+                   d="m 251.3,337.82 v -6.52 h 95.73 v 6.52 z"
+                   style="opacity:1;vector-effect:none;fill:#232323;fill-opacity:1;stroke-width:0px"
+                   id="path345" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.04378947,-0.04378947,0,298.95597,334.56)"
+                   id="text347"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g375">
+            <g
+               class="points"
+               id="g373">
+              <g
+                 class="point"
+                 id="g359">
+                <path
+                   d="m 11.97,251.52 v -5.02 h 95.73 v 5.02 z"
+                   style="opacity:1;vector-effect:none;fill:#5c0700;fill-opacity:1;stroke-width:0px"
+                   id="path355" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.42273684,-0.42273684,0,57.817092,249.01)"
+                   id="text357"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g365">
+                <path
+                   d="m 131.63,309.26 v -4.99 h 95.74 v 4.99 z"
+                   style="opacity:1;vector-effect:none;fill:#5c0700;fill-opacity:1;stroke-width:0px"
+                   id="path361" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.42021053,-0.42021053,0,177.49415,306.765)"
+                   id="text363"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g371">
+                <path
+                   d="m 251.3,331.3 v -2.61 h 95.73 v 2.61 z"
+                   style="opacity:1;vector-effect:none;fill:#5c0700;fill-opacity:1;stroke-width:0px"
+                   id="path367" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.61866667,-0.61866667,0,296.21183,329.995)"
+                   id="text369" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g397">
+            <g
+               class="points"
+               id="g395">
+              <g
+                 class="point"
+                 id="g381">
+                <path
+                   d="m 11.97,246.5 v -9.49 h 95.73 v 9.49 z"
+                   style="opacity:1;vector-effect:none;fill:#d77b42;fill-opacity:1;stroke-width:0px"
+                   id="path377" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.29389474,-0.29389474,0,58.432112,241.755)"
+                   id="text379"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g387">
+                <path
+                   d="m 131.63,304.27 v -27.51 h 95.74 v 27.51 z"
+                   style="opacity:1;vector-effect:none;fill:#d77b42;fill-opacity:1;stroke-width:0px"
+                   id="path383" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,291.83812)"
+                   id="text385"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g393">
+                <path
+                   d="m 251.3,328.69 v -49.97 h 95.73 v 49.97 z"
+                   style="opacity:1;vector-effect:none;fill:#d77b42;fill-opacity:1;stroke-width:0px"
+                   id="path389" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,293.79813)"
+                   id="text391"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g419">
+            <g
+               class="points"
+               id="g417">
+              <g
+                 class="point"
+                 id="g403">
+                <path
+                   d="m 11.97,237.01 v -6.63 h 95.73 v 6.63 z"
+                   style="opacity:1;vector-effect:none;fill:#d84800;fill-opacity:1;stroke-width:0px"
+                   id="path399" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.05305263,-0.05305263,0,59.581757,233.695)"
+                   id="text401"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g409">
+                <path
+                   d="M 131.63,276.76 V 196.6 h 95.74 v 80.16 z"
+                   style="opacity:1;vector-effect:none;fill:#d84800;fill-opacity:1;stroke-width:0px"
+                   id="path405" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,211.67812)"
+                   id="text407"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g415">
+                <path
+                   d="M 251.3,278.72 V 158.47 h 95.73 v 120.25 z"
+                   style="opacity:1;vector-effect:none;fill:#d84800;fill-opacity:1;stroke-width:0px"
+                   id="path411" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,173.54812)"
+                   id="text413"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g441">
+            <g
+               class="points"
+               id="g439">
+              <g
+                 class="point"
+                 id="g425">
+                <path
+                   d="m 11.97,230.38 v -4.12 h 95.73 v 4.12 z"
+                   style="opacity:1;vector-effect:none;fill:#009051;fill-opacity:1;stroke-width:0px"
+                   id="path421" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.97659259,-0.97659259,0,55.173296,228.32)"
+                   id="text423" />
+              </g>
+              <g
+                 class="point"
+                 id="g431">
+                <path
+                   d="m 131.63,196.6 v -12.36 h 95.74 v 12.36 z"
+                   style="opacity:1;vector-effect:none;fill:#009051;fill-opacity:1;stroke-width:0px"
+                   id="path427" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.53557895,-0.53557895,0,176.94345,190.42)"
+                   id="text429"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g437">
+                <path
+                   d="m 251.3,158.47 v -12.49 h 95.73 v 12.49 z"
+                   style="opacity:1;vector-effect:none;fill:#009051;fill-opacity:1;stroke-width:0px"
+                   id="path433" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.54652632,-0.54652632,0,296.55619,152.225)"
+                   id="text435"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g463">
+            <g
+               class="points"
+               id="g461">
+              <g
+                 class="point"
+                 id="g447">
+                <path
+                   d="m 11.97,226.26 v -35.65 h 95.73 v 35.65 z"
+                   style="opacity:1;vector-effect:none;fill:#4f7a28;fill-opacity:1;stroke-width:0px"
+                   id="path443" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,205.68813)"
+                   id="text445" />
+              </g>
+              <g
+                 class="point"
+                 id="g453">
+                <path
+                   d="M 131.63,184.24 V 81.75 h 95.74 v 102.49 z"
+                   style="opacity:1;vector-effect:none;fill:#4f7a28;fill-opacity:1;stroke-width:0px"
+                   id="path449" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,96.828125)"
+                   id="text451"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g459">
+                <path
+                   d="M 251.3,145.98 V 65.25 h 95.73 v 80.73 z"
+                   style="opacity:1;vector-effect:none;fill:#4f7a28;fill-opacity:1;stroke-width:0px"
+                   id="path455" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,80.328125)"
+                   id="text457"> *</text>
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g485">
+            <g
+               class="points"
+               id="g483">
+              <g
+                 class="point"
+                 id="g469">
+                <path
+                   d="m 11.97,190.61 v -8.6 h 95.73 v 8.6 z"
+                   style="opacity:1;vector-effect:none;fill:#00a8aa;fill-opacity:1;stroke-width:0px"
+                   id="path465" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.21894737,-0.21894737,0,58.789868,186.31)"
+                   id="text467"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g475">
+                <path
+                   d="m 131.63,81.75 v -5.58 h 95.74 v 5.58 z"
+                   style="opacity:1;vector-effect:none;fill:#00a8aa;fill-opacity:1;stroke-width:0px"
+                   id="path471" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,48.223594,126.50297)"
+                   id="text473" />
+              </g>
+              <g
+                 class="point"
+                 id="g481">
+                <path
+                   d="m 251.3,65.25 v -2.23 h 95.73 v 2.23 z"
+                   style="opacity:1;vector-effect:none;fill:#00a8aa;fill-opacity:1;stroke-width:0px"
+                   id="path477" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="matrix(0,0.52859259,-0.52859259,0,296.6418,64.135)"
+                   id="text479" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g507">
+            <g
+               class="points"
+               id="g505">
+              <g
+                 class="point"
+                 id="g491">
+                <path
+                   d="m 11.97,182.01 v -38.87 h 95.73 v 38.87 z"
+                   style="opacity:1;vector-effect:none;fill:#009193;fill-opacity:1;stroke-width:0px"
+                   id="path487" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,158.21812)"
+                   id="text489"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g497">
+                <path
+                   d="M 131.63,76.17 V 57.43 h 95.74 v 18.74 z"
+                   style="opacity:1;vector-effect:none;fill:#009193;fill-opacity:1;stroke-width:0px"
+                   id="path493" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,56.093594,118.63297)"
+                   id="text495" />
+              </g>
+              <g
+                 class="point"
+                 id="g503">
+                <path
+                   d="M 251.3,63.02 V 42.51 h 95.73 v 20.51 z"
+                   style="opacity:1;vector-effect:none;fill:#009193;fill-opacity:1;stroke-width:0px"
+                   id="path499" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="rotate(90,123.38609,171.00547)"
+                   id="text501" />
+              </g>
+            </g>
+          </g>
+          <g
+             class="trace bars"
+             shape-rendering="crispEdges"
+             style="opacity:1"
+             id="g529">
+            <g
+               class="points"
+               id="g527">
+              <g
+                 class="point"
+                 id="g513">
+                <path
+                   d="M 11.97,143.14 V 0 h 95.73 v 143.14 z"
+                   style="opacity:1;vector-effect:none;fill:#007879;fill-opacity:1;stroke-width:0px"
+                   id="path509" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(59.835,15.078125)"
+                   id="text511"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g519">
+                <path
+                   d="M 131.63,57.43 V 0 h 95.74 v 57.43 z"
+                   style="opacity:1;vector-effect:none;fill:#007879;fill-opacity:1;stroke-width:0px"
+                   id="path515" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(179.5,15.078125)"
+                   id="text517"> *</text>
+              </g>
+              <g
+                 class="point"
+                 id="g525">
+                <path
+                   d="M 251.3,42.51 V 0 h 95.73 v 42.51 z"
+                   style="opacity:1;vector-effect:none;fill:#007879;fill-opacity:1;stroke-width:0px"
+                   id="path521" />
+                <text
+                   class="bartext bartext-inside"
+                   text-anchor="middle"
+                   data-notex="1"
+                   style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#ffffff;fill-opacity:1"
+                   x="0"
+                   y="0"
+                   transform="translate(299.165,15.078125)"
+                   id="text523" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+         class="overplot"
+         id="g535" />
+      <path
+         class="xlines-above crisp"
+         style="fill:none;stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         d="M 98,692.5 H 459"
+         id="path537" />
+      <path
+         class="ylines-above crisp"
+         style="fill:none;stroke:#444444;stroke-width:1px;stroke-opacity:1"
+         d="M 98.5,100 V 692"
+         id="path539" />
+      <g
+         class="overlines-above"
+         id="g541" />
+      <g
+         class="xaxislayer-above"
+         id="g561">
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,693 v 5"
+           transform="translate(159.83)"
+           id="path543" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,693 v 5"
+           transform="translate(279.5)"
+           id="path545" />
+        <path
+           class="xtick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="m 0,693 v 5"
+           transform="translate(399.17)"
+           id="path547" />
+        <g
+           class="xtick"
+           id="g551">
+          <text
+             text-anchor="start"
+             x="0"
+             y="712.40002"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,79.915,899.33188)"
+             id="text549">Control</text>
+        </g>
+        <g
+           class="xtick"
+           id="g555">
+          <text
+             text-anchor="start"
+             x="0"
+             y="712.40002"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,139.75,1043.7863)"
+             id="text553">Regeneration</text>
+        </g>
+        <g
+           class="xtick"
+           id="g559">
+          <text
+             text-anchor="start"
+             x="0"
+             y="712.40002"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="rotate(45,199.585,1188.2408)"
+             id="text557">Regeneration_KO</text>
+        </g>
+      </g>
+      <g
+         class="yaxislayer-above"
+         id="g599">
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,691)"
+           id="path563" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,572.8)"
+           id="path565" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,454.6)"
+           id="path567" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,336.4)"
+           id="path569" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,218.2)"
+           id="path571" />
+        <path
+           class="ytick ticks crisp"
+           style="stroke:#444444;stroke-width:1px;stroke-opacity:1"
+           d="M 98,0 H 93"
+           transform="translate(0,100)"
+           id="path573" />
+        <g
+           class="ytick"
+           id="g577">
+          <text
+             text-anchor="end"
+             x="90.599998"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="translate(0,691)"
+             id="text575">0</text>
+        </g>
+        <g
+           class="ytick"
+           id="g581">
+          <text
+             text-anchor="end"
+             x="90.599998"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="translate(0,572.8)"
+             id="text579">20</text>
+        </g>
+        <g
+           class="ytick"
+           id="g585">
+          <text
+             text-anchor="end"
+             x="90.599998"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="translate(0,454.6)"
+             id="text583">40</text>
+        </g>
+        <g
+           class="ytick"
+           id="g589">
+          <text
+             text-anchor="end"
+             x="90.599998"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="translate(0,336.4)"
+             id="text587">60</text>
+        </g>
+        <g
+           class="ytick"
+           id="g593">
+          <text
+             text-anchor="end"
+             x="90.599998"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="translate(0,218.2)"
+             id="text591">80</text>
+        </g>
+        <g
+           class="ytick"
+           id="g597">
+          <text
+             text-anchor="end"
+             x="90.599998"
+             y="4.1999998"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444;fill-opacity:1"
+             transform="translate(0,100)"
+             id="text595">100</text>
+        </g>
+      </g>
+      <g
+         class="overaxes-above"
+         id="g601" />
+    </g>
+  </g>
+  <g
+     class="polarlayer"
+     id="g607" />
+  <g
+     class="smithlayer"
+     id="g609" />
+  <g
+     class="ternarylayer"
+     id="g611" />
+  <g
+     class="geolayer"
+     id="g613" />
+  <g
+     class="funnelarealayer"
+     id="g615" />
+  <g
+     class="pielayer"
+     id="g617" />
+  <g
+     class="iciclelayer"
+     id="g619" />
+  <g
+     class="treemaplayer"
+     id="g621" />
+  <g
+     class="sunburstlayer"
+     id="g623" />
+  <g
+     class="glimages"
+     id="g625" />
+  <defs
+     id="topdefs-da0217">
+    <g
+       class="clips"
+       id="g627" />
+    <clipPath
+       id="legendda0217">
+      <rect
+         width="229"
+         height="428"
+         x="0"
+         y="0"
+         id="rect629" />
+    </clipPath>
+  </defs>
+  <g
+     class="layer-above"
+     id="g637">
+    <g
+       class="imagelayer"
+       id="g633" />
+    <g
+       class="shapelayer"
+       id="g635" />
+  </g>
+  <g
+     class="legend"
+     pointer-events="all"
+     transform="translate(459,159.5)"
+     id="g1027">
+    <rect
+       class="bg"
+       shape-rendering="crispEdges"
+       style="fill:#ffffff;fill-opacity:1;stroke:#444444;stroke-width:0px;stroke-opacity:1"
+       width="229"
+       height="428"
+       x="0"
+       y="0"
+       id="rect639" />
+    <g
+       class="scrollbox"
+       clip-path="url(#legendda0217)"
+       id="g1023">
+      <text
+         class="legendtitletext"
+         text-anchor="start"
+         style="font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+         x="2"
+         y="18.200001"
+         id="text641">Leiden clusters</text>
+      <g
+         class="groups"
+         id="g1021">
+        <g
+           class="traces"
+           transform="translate(0,32.7)"
+           style="opacity:1"
+           id="g659">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text643">1-Endothelial (Emcn)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g655">
+            <g
+               class="legendfill"
+               id="g645" />
+            <g
+               class="legendlines"
+               id="g647" />
+            <g
+               class="legendsymbols"
+               id="g653">
+              <g
+                 class="legendpoints"
+                 id="g651">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#007879;fill-opacity:1;stroke-width:0px"
+                   id="path649" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect657" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,51.7)"
+           style="opacity:1"
+           id="g677">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text661">2-Endothelial (Fam167b)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g673">
+            <g
+               class="legendfill"
+               id="g663" />
+            <g
+               class="legendlines"
+               id="g665" />
+            <g
+               class="legendsymbols"
+               id="g671">
+              <g
+                 class="legendpoints"
+                 id="g669">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#009193;fill-opacity:1;stroke-width:0px"
+                   id="path667" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect675" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,70.7)"
+           style="opacity:1"
+           id="g695">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text679">3-Endothelial (Sema3g)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g691">
+            <g
+               class="legendfill"
+               id="g681" />
+            <g
+               class="legendlines"
+               id="g683" />
+            <g
+               class="legendsymbols"
+               id="g689">
+              <g
+                 class="legendpoints"
+                 id="g687">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#00a8aa;fill-opacity:1;stroke-width:0px"
+                   id="path685" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect693" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,89.7)"
+           style="opacity:1"
+           id="g713">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text697">4-T cell (Cd3d-Cd3e)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g709">
+            <g
+               class="legendfill"
+               id="g699" />
+            <g
+               class="legendlines"
+               id="g701" />
+            <g
+               class="legendsymbols"
+               id="g707">
+              <g
+                 class="legendpoints"
+                 id="g705">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#4f7a28;fill-opacity:1;stroke-width:0px"
+                   id="path703" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect711" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,108.7)"
+           style="opacity:1"
+           id="g731">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text715">5-T cell (Gm2682)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g727">
+            <g
+               class="legendfill"
+               id="g717" />
+            <g
+               class="legendlines"
+               id="g719" />
+            <g
+               class="legendsymbols"
+               id="g725">
+              <g
+                 class="legendpoints"
+                 id="g723">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#009051;fill-opacity:1;stroke-width:0px"
+                   id="path721" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect729" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,127.7)"
+           style="opacity:1"
+           id="g749">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text733">6-Macrophage (Adgre-Fcrls)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g745">
+            <g
+               class="legendfill"
+               id="g735" />
+            <g
+               class="legendlines"
+               id="g737" />
+            <g
+               class="legendsymbols"
+               id="g743">
+              <g
+                 class="legendpoints"
+                 id="g741">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#d84800;fill-opacity:1;stroke-width:0px"
+                   id="path739" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect747" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,146.7)"
+           style="opacity:1"
+           id="g767">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text751">7-Macrophage(Cd300ld)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g763">
+            <g
+               class="legendfill"
+               id="g753" />
+            <g
+               class="legendlines"
+               id="g755" />
+            <g
+               class="legendsymbols"
+               id="g761">
+              <g
+                 class="legendpoints"
+                 id="g759">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#d77b42;fill-opacity:1;stroke-width:0px"
+                   id="path757" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect765" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,165.7)"
+           style="opacity:1"
+           id="g785">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text769">8-Macrophage (Lyve1)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g781">
+            <g
+               class="legendfill"
+               id="g771" />
+            <g
+               class="legendlines"
+               id="g773" />
+            <g
+               class="legendsymbols"
+               id="g779">
+              <g
+                 class="legendpoints"
+                 id="g777">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#5c0700;fill-opacity:1;stroke-width:0px"
+                   id="path775" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect783" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,184.7)"
+           style="opacity:1"
+           id="g803">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text787">9-Acinar cells</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g799">
+            <g
+               class="legendfill"
+               id="g789" />
+            <g
+               class="legendlines"
+               id="g791" />
+            <g
+               class="legendsymbols"
+               id="g797">
+              <g
+                 class="legendpoints"
+                 id="g795">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#232323;fill-opacity:1;stroke-width:0px"
+                   id="path793" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect801" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,203.7)"
+           style="opacity:1"
+           id="g821">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text805">10-Acinar cells (Amy2a1)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g817">
+            <g
+               class="legendfill"
+               id="g807" />
+            <g
+               class="legendlines"
+               id="g809" />
+            <g
+               class="legendsymbols"
+               id="g815">
+              <g
+                 class="legendpoints"
+                 id="g813">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#606060;fill-opacity:1;stroke-width:0px"
+                   id="path811" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect819" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,222.7)"
+           style="opacity:1"
+           id="g839">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text823">11-Acinar to Ductal (Gm2663)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g835">
+            <g
+               class="legendfill"
+               id="g825" />
+            <g
+               class="legendlines"
+               id="g827" />
+            <g
+               class="legendsymbols"
+               id="g833">
+              <g
+                 class="legendpoints"
+                 id="g831">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#929292;fill-opacity:1;stroke-width:0px"
+                   id="path829" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect837" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,241.7)"
+           style="opacity:1"
+           id="g857">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text841">12-Acinar to Ductal (ADM)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g853">
+            <g
+               class="legendfill"
+               id="g843" />
+            <g
+               class="legendlines"
+               id="g845" />
+            <g
+               class="legendsymbols"
+               id="g851">
+              <g
+                 class="legendpoints"
+                 id="g849">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#c0c0c0;fill-opacity:1;stroke-width:0px"
+                   id="path847" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect855" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,260.7)"
+           style="opacity:1"
+           id="g875">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text859">13-B cell (Cd79a-Pax5)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g871">
+            <g
+               class="legendfill"
+               id="g861" />
+            <g
+               class="legendlines"
+               id="g863" />
+            <g
+               class="legendsymbols"
+               id="g869">
+              <g
+                 class="legendpoints"
+                 id="g867">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#669c35;fill-opacity:1;stroke-width:0px"
+                   id="path865" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect873" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,279.7)"
+           style="opacity:1"
+           id="g893">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text877">14-Stellate cell (Svep1-Dpt)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g889">
+            <g
+               class="legendfill"
+               id="g879" />
+            <g
+               class="legendlines"
+               id="g881" />
+            <g
+               class="legendsymbols"
+               id="g887">
+              <g
+                 class="legendpoints"
+                 id="g885">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#a77b00;fill-opacity:1;stroke-width:0px"
+                   id="path883" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect891" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,298.7)"
+           style="opacity:1"
+           id="g911">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text895">15-Stellate cell (Fgf1)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g907">
+            <g
+               class="legendfill"
+               id="g897" />
+            <g
+               class="legendlines"
+               id="g899" />
+            <g
+               class="legendsymbols"
+               id="g905">
+              <g
+                 class="legendpoints"
+                 id="g903">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#583400;fill-opacity:1;stroke-width:0px"
+                   id="path901" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect909" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,317.7)"
+           style="opacity:1"
+           id="g929">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text913">16-Progenitor (ADM)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g925">
+            <g
+               class="legendfill"
+               id="g915" />
+            <g
+               class="legendlines"
+               id="g917" />
+            <g
+               class="legendsymbols"
+               id="g923">
+              <g
+                 class="legendpoints"
+                 id="g921">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#b51a00;fill-opacity:1;stroke-width:0px"
+                   id="path919" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect927" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,336.7)"
+           style="opacity:1"
+           id="g947">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text931">17-Muscularis cell</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g943">
+            <g
+               class="legendfill"
+               id="g933" />
+            <g
+               class="legendlines"
+               id="g935" />
+            <g
+               class="legendsymbols"
+               id="g941">
+              <g
+                 class="legendpoints"
+                 id="g939">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#36acab;fill-opacity:1;stroke-width:0px"
+                   id="path937" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect945" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,355.7)"
+           style="opacity:1"
+           id="g965">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text949">18-Fibroblast (Rgs5)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g961">
+            <g
+               class="legendfill"
+               id="g951" />
+            <g
+               class="legendlines"
+               id="g953" />
+            <g
+               class="legendsymbols"
+               id="g959">
+              <g
+                 class="legendpoints"
+                 id="g957">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#37aabb;fill-opacity:1;stroke-width:0px"
+                   id="path955" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect963" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,374.7)"
+           style="opacity:1"
+           id="g983">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text967">19-Dendritic (Cd209a)</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g979">
+            <g
+               class="legendfill"
+               id="g969" />
+            <g
+               class="legendlines"
+               id="g971" />
+            <g
+               class="legendsymbols"
+               id="g977">
+              <g
+                 class="legendpoints"
+                 id="g975">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#39a8cd;fill-opacity:1;stroke-width:0px"
+                   id="path973" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect981" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,393.7)"
+           style="opacity:1"
+           id="g1001">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text985">20-Enterochromaffn cell</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g997">
+            <g
+               class="legendfill"
+               id="g987" />
+            <g
+               class="legendlines"
+               id="g989" />
+            <g
+               class="legendsymbols"
+               id="g995">
+              <g
+                 class="legendpoints"
+                 id="g993">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#666100;fill-opacity:1;stroke-width:0px"
+                   id="path991" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect999" />
+        </g>
+        <g
+           class="traces"
+           transform="translate(0,412.7)"
+           style="opacity:1"
+           id="g1019">
+          <text
+             class="legendtext"
+             text-anchor="start"
+             style="font-size:12px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;fill:#444444;fill-opacity:1"
+             x="40"
+             y="4.6799998"
+             id="text1003">21Pancreatic D cell</text>
+          <g
+             class="layers"
+             style="opacity:1"
+             id="g1015">
+            <g
+               class="legendfill"
+               id="g1005" />
+            <g
+               class="legendlines"
+               id="g1007" />
+            <g
+               class="legendsymbols"
+               id="g1013">
+              <g
+                 class="legendpoints"
+                 id="g1011">
+                <path
+                   class="legendundefined"
+                   d="M 6,6 H -6 V -6 H 6 Z"
+                   transform="translate(20)"
+                   style="fill:#001e57;fill-opacity:1;stroke-width:0px"
+                   id="path1009" />
+              </g>
+            </g>
+          </g>
+          <rect
+             class="legendtoggle"
+             style="fill:#000000;fill-opacity:0"
+             x="0"
+             y="-9.5"
+             width="223.76562"
+             height="19"
+             id="rect1017" />
+        </g>
+      </g>
+    </g>
+    <rect
+       class="scrollbar"
+       rx="20"
+       ry="3"
+       width="0"
+       height="0"
+       style="fill:#808ba4;fill-opacity:1"
+       x="0"
+       y="0"
+       id="rect1025" />
+  </g>
+  <g
+     class="g-gtitle"
+     id="g1029"
+     transform="translate(0,-22)" />
+  <g
+     class="g-xtitle"
+     transform="translate(0,-84.267773)"
+     id="g1033">
+    <text
+       class="xtitle"
+       style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444"
+       x="279.5"
+       y="840.31464"
+       text-anchor="middle"
+       id="text1031">Type</text>
+  </g>
+  <g
+     class="g-ytitle"
+     id="g1037"
+     transform="translate(30,-22)">
+    <text
+       class="ytitle"
+       transform="rotate(-90,14.403125,395.5)"
+       style="font-weight:normal;font-size:14px;font-family:'Open Sans', verdana, arial, sans-serif;white-space:pre;opacity:1;fill:#444444"
+       x="14.403125"
+       y="395.5"
+       text-anchor="middle"
+       id="text1035">Percentage of cells</text>
+  </g>
+</svg>
